@@ -1,13 +1,19 @@
 # 6-Todolist-sql
 
-code utilisé :
+code utilisé : html php sql
 
-outil utilisé :
+outil utilisé : sublimetext apache 000webhost mysql phpmyadmin
 
-complément :
+complément : https://ex32bege.000webhostapp.com/
 
-validé :
+code valide : non
 
-responsive :
+non-voyants : non
 
-sanitizé :
+sanitizé et validé : non
+
+responsive : non
+
+exercice : https://github.com/becodeorg/BXLCentral/tree/master/Projects/6-Todolist-sql
+
+mon évaluation sur 10 : 2/10
